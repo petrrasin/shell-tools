@@ -1,0 +1,2 @@
+# shell-tools
+Collection of small command-line utilities and helper scripts. Includes automation for CMD (Batch), PowerShell (PS), and Bash. Designed to streamline development and system maintenance tasks.
