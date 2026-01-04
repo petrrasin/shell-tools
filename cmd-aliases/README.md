@@ -3,8 +3,9 @@ This repository contains a setup script to supercharge your **CMD** with **persi
 
 ## 📝 Features
 
-- Creates (if missing) `%USERPROFILE%\cmd_aliases.txt` with a few example aliases.
-- Sets the `AutoRun` registry value so every new **CMD** window loads aliases from that file.
+- Persistent Aliases: Creates **%USERPROFILE%\cmd_aliases.txt** and auto-loads it.
+- Shell Enhancement: Automatically installs **Clink** via winget for Bash-like features (Ctrl+V, completion, history).
+- Robust Setup: Handles Registry AutoRun with proper quoting for paths with spaces.
 
 ## 🔧 Usage
 
